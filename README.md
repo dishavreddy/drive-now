@@ -23,12 +23,6 @@ Rentals
 <img width="1902" height="807" alt="Screenshot 2026-07-25 152716" src="https://github.com/user-attachments/assets/47e118e0-0f08-4842-b67b-81a3c17b54de" />
 
 
-
-
-
-|---|---|---|
-| ![Home](./screenshots/home.png) | ![Sign Up](./screenshots/signup.png) | ![Dashboard](./screenshots/dashboard.png) |
-
 <!-- To add a screenshot:
 1. Take a screenshot of the page
 2. Save it in a `screenshots/` folder in your repo (create it if it doesn't exist)
